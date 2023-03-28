@@ -114,7 +114,7 @@ export const headerData: HeaderProps = {
 export const heroData: HeroProps = {
   title: (
     <>
-      Free template for <span className="hidden md:inline">starts a website using</span> <span>Next.js</span> +{' '}
+      Plantilla <span className="hidden md:inline">starts a website using</span> <span>Next.js</span> +{' '}
       <span className="sm:whitespace-nowrap">Tailwind CSS</span>
     </>
   ),
